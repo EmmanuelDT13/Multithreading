@@ -1,3 +1,5 @@
+package communication;
+
 public class Synchronization {
 
     private static Integer counter1 = 0;
